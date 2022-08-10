@@ -6,7 +6,7 @@ const ProductsDom = styled.div`
   display: flex;
   flex-wrap: wrap;
   width: 390px;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 1rem;
 `;
 

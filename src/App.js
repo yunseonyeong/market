@@ -3,7 +3,6 @@ import Detail from "./pages/Detail";
 import { Routes, Route, Navigate } from "react-router-dom";
 import Header from "./components/Header";
 import List from "./pages/List";
-import Categories from "./components/Categories";
 
 function App() {
   return (
